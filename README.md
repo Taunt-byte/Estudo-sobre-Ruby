@@ -54,9 +54,12 @@ Assim como em diversas linguagens o ruby tem varios tipos de dados.
 
 + String: Tipo que representa um conjunto de letras ou seja representa um texto.
 
-+ Array: Um tipo que nos permite
++ Array: Um tipo que nos permite.
 
-+
++ Symbol: É um tipo que é semelhante a String porem ele é <strong>imutável</strong> ou seja não muda.
+
++ Hash: Tipo que representa um coleção de dados organizados por chaves unicas com seus respectivos valores.
+  É diferente do Array pois ele usa chaves "{}" ja o array usa colchetes.
 
 ## Estruturas de controle
 
