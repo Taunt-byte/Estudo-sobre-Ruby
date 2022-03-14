@@ -1,5 +1,24 @@
-# Estudo sobre Ruby
- Estudo sobre a linguagem Ruby
+<p align="center">
+  <a href="https://unform.dev">
+    <img src="img/Logo.png" height="150" width="175" alt="Unform" />
+  </a>
+</p>
+<h1 align="center">Estudo sobre a linguagem Ruby</h1> 
+
+<p align="center">Conceitos,exemplos e dicas sobre a linguagem</p>
+
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Historia](#Historia)
+   * [Instalação](#Instalação)
+   * [Conceitos](#Conceitos)
+   * [Estruturas de controle](#Estruturas-de-controle)
+   * [Métodos e gems ](#Métodos-e-gems )
+   * [Programação Orientada a objetos](#Programação-Orientada-a-objetos)
+   * [Ruby Avançado](#Ruby-Avançado)
+<!--te-->
+
 
 ## Historia
 
@@ -33,7 +52,11 @@ Assim como em diversas linguagens o ruby tem varios tipos de dados.
 
 + Boolean: É um tipo de dado usado para informar a veracidade de algo sendo apenas dois tipos ou verdadeiro ou falso.
 
-+ String:Tipo que representa um conjunto de letras ou seja representa um texto.
++ String: Tipo que representa um conjunto de letras ou seja representa um texto.
+
++ Array: Um tipo que nos permite
+
++
 
 ## Estruturas de controle
 
