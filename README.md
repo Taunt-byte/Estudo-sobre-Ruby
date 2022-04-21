@@ -18,7 +18,6 @@ Tabela de conteúdos
    * [Programação Orientada a objetos](#Programação-Orientada-a-objetos)
    * [Ruby Avançado](#Ruby-Avançado)
 <!--te-->
-\z'
 
 ## Historia
 
